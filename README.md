@@ -1,8 +1,14 @@
-# React + Vite
+# Portfólio de Eduardo Pires Escudero 
+- RM: 556527
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição do Projeto
+Este é meu portfólio desenvolvido para apresentar minhas habilidades e projetos. O site é responsivo e utiliza uma abordagem moderna para mostrar suas competências.
 
-Currently, two official plugins are available
+## Tecnologias e Bibliotecas Utilizadas
+- **React**: Para a construção da interface do usuário.
+- **Tailwind CSS**: Para estilização e design responsivo.
+- **React Icons**: Para ícones sociais e técnicos.
+- **React Router**: Para navegação entre diferentes seções do portfólio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Link do Site
+[Visite meu portfólio](https://eduardo-portfolio-cp2.vercel.app/)
