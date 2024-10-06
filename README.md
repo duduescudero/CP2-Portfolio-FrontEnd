@@ -1,4 +1,5 @@
-# Portfólio de Eduardo Pires Escudero 
+# CP2 Portfólio
+- Nome: Eduardo Pires Escudero
 - RM: 556527
 
 ## Descrição do Projeto
