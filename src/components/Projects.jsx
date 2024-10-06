@@ -18,8 +18,8 @@ const projectsData = [
     id: 2,
     title: "Eco Store",
     img: projeto2Image,
-    link: "https://link-do-projeto-2.com",
-    github: "https://github.com/seuusuario/projeto2",
+    link: "https://cp-4-front-end.vercel.app/",
+    github: "https://github.com/duduescudero/CP4-FrontEnd",
     desc: "O Eco Store, criado na FIAP, promove um estilo de vida sustentável, permitindo que os usuários explorem e adquiram produtos ecológicos de maneira fácil e intuitiva.",
     languages: ["HTML", "CSS", "JavaScript"]
   }
